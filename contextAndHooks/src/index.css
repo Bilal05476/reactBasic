@@ -1,0 +1,32 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 20px;
+    padding: 20px 0;
+}
+.navbar{
+    text-align: center;
+}
+.button{
+    margin: 10px 30px;
+    padding: 0;
+}
+.navbar ul li{
+    display: inline-flex;
+    padding: 12px;
+    flex-direction: column;
+}
+.booklist{
+    text-align: center;
+}
+.booklist ul li{
+    display: flex;
+    padding: 12px;
+    flex-direction: column;
+}
+ul{
+    padding: 0;
+}
+.booklist li{
+    margin: 5px 0;
+    border-radius: 5px;
+}
